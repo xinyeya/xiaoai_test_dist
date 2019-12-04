@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0af4c8"],{"0e74":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("el-card",{staticStyle:{"box-shadow":"0 2px 12px 0 #FF6C60"}},[e._v(" 待开发 ")])],1)},a=[],r={name:"income_expenditure",data:function(){return{}}},u=r,i=t("2877"),o=Object(i["a"])(u,c,a,!1,null,"0400c497",null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0af4c8.5db0c48a.js.map
